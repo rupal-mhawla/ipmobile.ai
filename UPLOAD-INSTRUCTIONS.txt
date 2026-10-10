@@ -1,0 +1,13 @@
+Upload the CONTENTS of this folder to the root of your existing GitHub website repository.
+Do not upload the github-upload folder itself as a nested folder.
+Replace existing files when prompted, and include the assets folder and all files inside it.
+
+Included changes:
+- Homepage press release video above the hero.
+- Meet the Team section on Why iPMobile.
+- Brett Wantland and John Yi headshots and downloadable iPMobile profiles.
+
+This folder preserves CNAME for www.ipmobile.ai.
+Your repository's existing GitHub Pages publishing configuration should remain in place.
+
+IMPORTANT: The video is approximately 28 MiB, above GitHub's 25 MiB browser-upload limit. Use GitHub Desktop or Git to commit and push the complete folder contents. Do not omit the video, or the homepage player will fail.
